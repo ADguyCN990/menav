@@ -32,7 +32,25 @@
         })();
     </script>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <!-- Font Awesome CDN with fallbacks to prevent blocking issues -->
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.5.2/css/all.min.css" id="fontawesome-css">
+    <script>
+      (function() {
+        var link = document.getElementById('fontawesome-css');
+        var retries = 0;
+        var fallbacks = [
+          'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css',
+          'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/all.min.css'
+        ];
+        link.onerror = function() {
+          if (retries < fallbacks.length) {
+            console.log('Font Awesome CDN failed, trying fallback: ' + fallbacks[retries]);
+            link.href = fallbacks[retries];
+            retries++;
+          }
+        };
+      })();
+    </script>
 </head>
 <body class="loading">
     <!-- 滚动进度指示条 -->

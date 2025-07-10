@@ -1,6 +1,6 @@
-title: 我的导航
+title: 金晖の导航站
 description: 个人网络导航站
-author: Your Name
+author: 金晖
 favicon: favicon.ico
 logo_text: 导航站
 
@@ -19,8 +19,8 @@ fonts:
     source: google
     
 profile:
-  title: Hello,
-  subtitle: Welcome to My Navigation
+  title: 你好,旅行者
+  subtitle: 
   description: 导航菜单
 
 social:

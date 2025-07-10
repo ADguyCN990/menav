@@ -1,0 +1,214 @@
+title: 欢迎使用
+subtitle: 个人导航站点
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: home
+
+categories:
+  - name: 常用网站
+    icon: fas fa-star
+    sites:
+      - name: Linux.do
+        url: https://linux.do/
+        icon: fab fa-linux
+        description: 新的理想型社区
+      - name: BiliBili
+        url: https://www.bilibili.com
+        icon: fab fa-bilibili
+        description: 哔哩哔哩
+      - name: Gemini
+        url: https://gemini.google.com/app
+        icon: fas fa-robot
+        description: AI智能助手
+      - name: ASMR@glow
+        url: https://www.youtube.com/@asmrglow
+        icon: fab fa-youtube
+        description: 最最最漂亮的小姐姐
+      - name: GitHub
+        url: https://github.com/ADguyCN990?tab=repositories
+        icon: fab fa-github
+        description: 代码托管平台
+      - name: flowercloud
+        url: https://flowercloud.net/clientarea.php
+        icon: fas fa-rocket
+        description: 老牌机场   
+      
+  - name: 自部署应用
+    icon: fas fa-cloud
+    sites:
+      - name: 导航站
+        url: https://nav.adguy.top
+        icon: fas fa-compass
+        description: 个人导航主页
+      - name: 在线云剪贴板
+        url: https://jhclip.top
+        icon: fas fa-clipboard
+        description: 在线云剪贴板
+      - name: 博客
+        url: https://www.adguy.top
+        icon: fas fa-blog
+        description: 个人博客
+      - name: 新闻
+        url: https://news.adguy.top
+        icon: fas fa-newspaper
+        description: 自建的新闻聚合站
+      - name: MoonTV
+        url: https://tv.adguy.top
+        icon: fas fa-tv
+        description: 影视资源站
+      - name: IT工具箱
+        url: https://tools.adguy.top
+        icon: fas fa-toolbox
+        description: 程序员的瑞士军刀
+      - name: 短链生成
+        url: https://sl.jhclip.top
+        icon: fas fa-link
+        description: 提升链接的美观程度
+      - name: 生成APP图标
+        url: https://icon.adguy.top
+        icon: fas fa-icons
+        description: Canvas的集大成之作
+      - name: 随机地址生成
+        url: https://addr.jhclip.top
+        icon: fas fa-address-card
+        description: 外网注册刚需
+  - name: 开发工具
+    icon: fas fa-tools
+    sites:
+      - name: VS Code
+        url: https://code.visualstudio.com
+        icon: fas fa-code
+        description: 强大的代码编辑器
+      - name: Postman
+        url: https://www.postman.com
+        icon: fas fa-paper-plane
+        description: API调试工具
+      - name: Git
+        url: https://git-scm.com
+        icon: fab fa-git-alt
+        description: 版本控制工具
+      - name: Docker
+        url: https://www.docker.com
+        icon: fab fa-docker
+        description: 容器化平台
+      - name: JetBrains
+        url: https://www.jetbrains.com
+        icon: fas fa-laptop-code
+        description: 专业开发IDE
+      - name: npm
+        url: https://www.npmjs.com
+        icon: fab fa-npm
+        description: Node.js包管理器
+      - name: Webpack
+        url: https://webpack.js.org
+        icon: fas fa-box-open
+        description: 前端打包工具
+      - name: GitHub Copilot
+        url: https://github.com/features/copilot
+        icon: fas fa-robot
+        description: AI编程助手
+  - name: 设计资源
+    icon: fas fa-palette
+    sites:
+      - name: Figma
+        url: https://www.figma.com
+        icon: fab fa-figma
+        description: 在线设计工具
+      - name: Dribbble
+        url: https://dribbble.com
+        icon: fab fa-dribbble
+        description: 设计师社区
+      - name: Behance
+        url: https://www.behance.net
+        icon: fab fa-behance
+        description: 创意设计平台
+      - name: IconFont
+        url: https://www.iconfont.cn
+        icon: fas fa-icons
+        description: 图标资源库
+      - name: Unsplash
+        url: https://unsplash.com
+        icon: fas fa-camera
+        description: 免费高质量图片
+      - name: Adobe XD
+        url: https://www.adobe.com/products/xd.html
+        icon: fab fa-adobe
+        description: UI/UX设计工具
+      - name: Sketch
+        url: https://www.sketch.com
+        icon: fas fa-pencil-ruler
+        description: 矢量设计工具
+      - name: Canva
+        url: https://www.canva.com
+        icon: fas fa-paint-brush
+        description: 在线平面设计
+  - name: 在线工具
+    icon: fas fa-wrench
+    sites:
+      - name: JSON Editor
+        url: https://jsoneditoronline.org
+        icon: fas fa-code-branch
+        description: JSON在线编辑器
+      - name: Can I Use
+        url: https://caniuse.com
+        icon: fas fa-browser
+        description: 浏览器兼容性查询
+      - name: TinyPNG
+        url: https://tinypng.com
+        icon: fas fa-compress
+        description: 图片压缩工具
+      - name: Carbon
+        url: https://carbon.now.sh
+        icon: fas fa-code
+        description: 代码图片生成器
+      - name: RegExr
+        url: https://regexr.com
+        icon: fas fa-search
+        description: 正则表达式测试
+      - name: Excalidraw
+        url: https://excalidraw.com
+        icon: fas fa-pencil-alt
+        description: 手绘风格图表工具
+      - name: Notion
+        url: https://www.notion.so
+        icon: fas fa-sticky-note
+        description: 多功能笔记工具
+      - name: Grammarly
+        url: https://www.grammarly.com
+        icon: fas fa-spell-check
+        description: 英文语法检查工具
+  - name: 云服务平台
+    icon: fas fa-cloud
+    sites:
+      - name: AWS
+        url: https://aws.amazon.com
+        icon: fab fa-aws
+        description: 亚马逊云服务
+      - name: Azure
+        url: https://azure.microsoft.com
+        icon: fab fa-microsoft
+        description: 微软云平台
+      - name: Google Cloud
+        url: https://cloud.google.com
+        icon: fab fa-google
+        description: 谷歌云平台
+      - name: Cloudflare
+        url: https://www.cloudflare.com
+        icon: fas fa-cloud
+        description: CDN与安全服务
+      - name: Vercel
+        url: https://vercel.com
+        icon: fas fa-server
+        description: 前端部署平台
+      - name: Netlify
+        url: https://www.netlify.com
+        icon: fas fa-globe
+        description: 静态网站托管
+      - name: DigitalOcean
+        url: https://www.digitalocean.com
+        icon: fab fa-digital-ocean
+        description: 简单云服务器
+      - name: Heroku
+        url: https://www.heroku.com
+        icon: fas fa-h-square
+        description: 应用部署平台
