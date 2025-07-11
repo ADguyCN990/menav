@@ -1,0 +1,70 @@
+title: 论坛
+subtitle: 摸鱼吹水
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: forum
+categories:
+  - name: 开发
+    icon: fas fa-code
+    sites:
+      - name: Linux.do
+        url: https://linux.do/
+        icon: fab fa-linux
+        description: AI讨论氛围最好的社区
+      - name: v2ex
+        icon: fas fa-comments
+        description: 老牌程序员论坛
+        url: https://www.v2ex.com/
+      - name: StackOverflow
+        icon: fab fa-stack-overflow
+        description: 程序员的云南白药
+        url: https://stackoverflow.com/questions
+      - name: 稀土掘金
+        icon: fas fa-gem
+        description: 技术分享社区
+        url: https://chatgpt.com
+  - name: 游戏
+    icon: fas fa-gamepad
+    sites:
+      - name: 炉石传说吧
+        url: https://tieba.baidu.com/f?kw=%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4
+        icon: fas fa-fire
+        description: 又称活全家吧
+      - name: 旅法术营地
+        url: https://www.iyingdi.com/
+        icon: fas fa-campground
+        description: 卡牌游戏抄卡组的
+      - name: 小黑盒社区
+        url: https://www.xiaoheihe.cn/app/bbs/home
+        icon: fas fa-box
+        description: 云玩家少的社区
+      - name: NGA刀塔杂谈版块
+        url: https://bbs.nga.cn/thread.php?fid=521
+        icon: fas fa-comments
+        description: 别带fg节奏啊
+  - name: 解压
+    icon: fas fa-couch
+    sites:
+      - name: 反知乎吧
+        url: https://tieba.baidu.com/f?kw=%E5%8F%8D%E7%9F%A5%E4%B9%8E
+        icon: fab fa-zhihu
+        description: 爽！这才是吃屎！
+      - name: 华语乐坛吧
+        url: https://tieba.baidu.com/f?kw=%E5%8D%8E%E8%AF%AD%E4%B9%90%E5%9D%9B
+        icon: fas fa-music
+        description: 爽！这才是饭圈！
+      - name: 航空母舰吧
+        url: https://tieba.baidu.com/f?kw=%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0
+        icon: fas fa-ship
+        description: 爽！这才是天朝！
+      - name: PS吧
+        url: https://tieba.baidu.com/f?kw=ps
+        icon: fas fa-paint-brush
+        description: 爽！这才是P图！
+      - name: 弱智吧
+        url: https://tieba.baidu.com/f?kw=%E5%BC%B1%E6%99%BA
+        icon: fas fa-dizzy
+        description: 爽！这才是天才！
+
+
+

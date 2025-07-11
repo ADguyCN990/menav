@@ -5,7 +5,10 @@
 - name: AI
   icon: fas fa-robot
   id: ai
-- name: 友链
+- name: 论坛
+  icon: fas fa-comments
+  id: forum
+- name: 特别关注
   icon: fas fa-users
   id: friends
 - name: 书签
