@@ -1,0 +1,34 @@
+title: 友情链接
+subtitle: 那些人那些事
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: friends
+
+categories:
+  - name: 博主们
+    icon: fas fa-user-friends
+    sites:
+      - name: 普京小霸王的抖音
+        icon: fab fa-tiktok
+        description: 全天下最最最好的姐姐
+        url: https://www.douyin.com/user/MS4wLjABAAAAXb5He03Kk8uipNmmWQO5VPfV0tYzjW7KATa6Zcckkwg?from_tab_name=main&is_search=0&list_name=follow&nt=0
+      - name: paradoxskin的博客
+        icon: fas fa-laptop-code
+        description: vim狂热爱好者
+        url: https://paradoxskin.github.io
+      - name: vivaldi370的博客
+        icon: fas fa-book-open
+        description: 最好的题解
+        url: https://www.cnblogs.com/vivaldi370
+      - name: 立蓁小辣椒的微博
+        icon: fab fa-weibo
+        description: 我爱台妹,台妹克我
+        url: https://weibo.com/5304798547/PzffnrRXq
+      - name: lazzzis的博客
+        icon: fas fa-user-graduate
+        description: 在美国的远古ACM学长
+        url: https://blog.lazzzis.com
+      - name: 行摄思书的博客
+        icon: fas fa-camera-retro
+        description: 稀有的老年人博客
+        url: https://www.zhuf.net/

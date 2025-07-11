@@ -2,13 +2,7 @@
   icon: fas fa-home
   id: home
   active: true
-- name: 项目
-  icon: fas fa-project-diagram
-  id: projects
-- name: 文章
-  icon: fas fa-book
-  id: articles
-- name: 朋友
+- name: 友链
   icon: fas fa-users
   id: friends
 - name: 书签
