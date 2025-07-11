@@ -2,6 +2,9 @@
   icon: fas fa-home
   id: home
   active: true
+- name: AI
+  icon: fas fa-robot
+  id: ai
 - name: 友链
   icon: fas fa-users
   id: friends

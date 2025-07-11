@@ -1,0 +1,79 @@
+title: AI
+subtitle: 人工智能相关
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: ai
+categories:
+  - name: 官方大模型
+    icon: fas fa-brain
+    sites:
+      - name: Gemini
+        icon: fas fa-robot
+        description: 谷歌旗下的AI
+        url: https://gemini.google.com/app
+      - name: 豆包
+        icon: fas fa-comment-dots
+        description: 字节跳动旗下的AI
+        url: https://www.doubao.com/chat
+      - name: DeepSeek
+        icon: fas fa-search-plus
+        description: 深度求索旗下的AI
+        url: https://chat.deepseek.com
+      - name: ChatGPT
+        icon: fas fa-comments
+        description: OpenAI旗下的AI
+        url: https://chatgpt.com
+      - name: ImageFX
+        icon: fas fa-paint-brush
+        description: GoogleLab推出的文生图产品
+        url: https://labs.google/fx/zh/tools/image-fx
+      - name: Google AI Studio
+        icon: fab fa-google
+        description: 谷歌的ailab,模型多点
+        url: https://aistudio.google.com/prompts/new_chat
+      - name: Grok
+        icon: fab fa-x-twitter
+        description: 马斯克旗下的AI
+        url: https://grok.com
+      - name: vocalremover
+        icon: fas fa-music
+        description: ai音轨分离 
+        url: https://vocalremover.org/splitter-ai
+  - name: 第三方站点
+    icon: fas fa-users
+    sites:
+      - name: yubb chat
+        icon: fas fa-paint-brush
+        description: 有免费AI画图
+        url: https://free.yubbchat.com/
+      - name: cursor pool
+        icon: fas fa-swimmer
+        description: cursor公益号池
+        url: https://poolhub.me
+      - name: RawChat
+        icon: fas fa-comments
+        description: 共享chatGPT
+        url: https://sharedchat.fun/
+      - name: FLUX.1
+        icon: fas fa-palette
+        description: Flux绘图公益站点-支持Flux.1dev,支持提示词优化
+        url: https://share.fastgpt.in/chat/share?shareId=zlbbyirumxf8j0rpazajy96s
+      - name: FluxEZ
+        icon: fas fa-palette
+        description: Flux绘图公益站点-支持Flux.1dev,支持生成多图,支持自定义参数
+        url: https://flux.comnergy.com/zh
+  - name: 工具
+    icon: fas fa-tools
+    sites:
+      - name: MCP Servers
+        icon: fas fa-server
+        description: MCP收录
+        url: https://mcp.so/
+      - name: MCP市场
+        icon: fas fa-store
+        description: 中文的MCP市场
+        url: https://mcpmarket.cn/
+      - name: 提示词工程
+        icon: fas fa-lightbulb
+        description: 收集了各式各样的提示词
+        url: https://www.waytoagi.com/zh/prompts

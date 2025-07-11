@@ -11,6 +11,9 @@
 - name: 朋友
   icon: fas fa-users
   id: friends
+- name: AI
+  icon: fas fa-robot
+  id: ai
 - name: 书签
   icon: fas fa-bookmark
   id: bookmarks 
