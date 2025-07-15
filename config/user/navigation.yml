@@ -5,12 +5,18 @@
 - name: AI
   icon: fas fa-robot
   id: ai
-- name: 论坛
-  icon: fas fa-comments
-  id: forum
+- name: 工具
+  icon: fas fa-hammer
+  id: tools
 - name: 特别关注
   icon: fas fa-users
   id: friends
+- name: 论坛
+  icon: fas fa-comments
+  id: forum
+- name: 资源
+  icon: fas fa-crown
+  id: resources
 - name: 书签
   icon: fas fa-bookmark
   id: bookmarks 

@@ -62,6 +62,14 @@ categories:
         icon: fas fa-palette
         description: Flux绘图公益站点-支持Flux.1dev,支持生成多图,支持自定义参数
         url: https://flux.comnergy.com/zh
+      - name: RaphaelAI
+        icon: fas fa-palette
+        description: Flux绘图公益站点-支持Flux.1dev,支持负面提示词
+        url: https://raphael.app/zh
+      - name: anyvoice
+        icon: fas fa-microphone
+        description: AI克隆声音,每月20分钟额度
+        url: https://anyvoice.net/zh
   - name: 工具
     icon: fas fa-tools
     sites:
