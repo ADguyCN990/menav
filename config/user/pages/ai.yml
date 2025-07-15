@@ -15,6 +15,10 @@ categories:
         icon: fas fa-comment-dots
         description: 字节跳动旗下的AI
         url: https://www.doubao.com/chat
+      - name: Claude
+        icon: fas fa-wand-magic-sparkles
+        description: 专精编程领域的AI
+        url: https://claude.ai/new
       - name: DeepSeek
         icon: fas fa-search-plus
         description: 深度求索旗下的AI
