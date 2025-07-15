@@ -9,125 +9,125 @@ categories:
     sites:
       - name: 小林coding
         url: https://xiaolincoding.com/
-        icon: 
+        icon: fas fa-book
         description: 图解计算机网络、操作系统、计算机组成、MySQL、Redis，让天下没有难懂的八股文！
       - name: CS自学指南
         url: https://csdiy.wiki/
-        icon:
+        icon: fas fa-graduation-cap
         description: 高质量公开课&课后资源汇总
       - name: Learn Git
         url: https://learngitbranching.js.org/?locale=zh_CN
-        icon:
+        icon: fab fa-git-alt
         description: 在线学习Git
       - name: 优雅退出在golang中的实现
         url: https://www.cnblogs.com/wishFreedom/p/16573575.html
-        icon:
+        icon: fab fa-golang
         description: 我们需要一种机制，能在程序退出前做一些事情，而不是粗暴的被系统杀死回收
       - name: 优雅地关闭协程
         url: https://www.cnblogs.com/chenjiazhan/p/17398947.html
-        icon: 
+        icon: fab fa-golang
         description: 对于一些虽然没有达到终止条件的协程，但是其又没有再继续执行下去的必要，此时主动关闭其执行，从而保证程序的健壮性和性能。
       - name: ETCD介绍
         url: https://www.topgoer.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C/go%E6%93%8D%E4%BD%9Cetcd/etcd%E4%BB%8B%E7%BB%8D.html
-        icon:
+        icon: fas fa-database
         description: etcd是使用Go语言开发的一个开源的、高可用的分布式key-value存储系统，可以用于配置共享和服务的注册和发现。
       - name: Docker-从入门到实践
         url: https://yeasy.gitbook.io/docker_practice/
-        icon: 
+        icon: fab fa-docker
         description: 无论是应用开发者、运维人员、还是其他信息技术从业人员，都有必要认识和掌握 Docker，节约有限的生命。
       - name: 压缩Docker镜像体积
         url: https://www.techug.com/post/3-simple-tricks-for-smaller-docker-images/
-        icon: 
+        icon: fab fa-docker
         description: 在构建Docker容器时，应该尽量想办法获得体积更小的镜像
       - name: 如何优化Docker镜像体积
         url: https://waynerv.com/posts/how-to-reduce-docker-image-size/
-        icon: 
+        icon: fab fa-docker
         description: 最近在接手一个新项目后，将原本 1.6GB 的镜像精简到了 600 多MB，直接进入了贤者时间，特地记录下优化过程中总结的一些经验。
       - name: Docker基础技术：Linux Namespace
         url: https://coolshell.cn/articles/17010.html
-        icon:
+        icon: fab fa-linux
         description: Linux Namespace是Linux提供的一种内核级别环境隔离的方法。
       - name: 针对mac系统m1pro芯片的golang打桩
         url: https://www.linkinstars.com/post/8ca95e0.html
-        icon: 
+        icon: fab fa-golang
         description: 傻逼苹果,库克你妈炸了
       - name: 云原生开发
         url: https://www.yuque.com/tmfl/cloud
-        icon:
+        icon: fas fa-cloud
         description: 主要是云上的环境搭建
       - name: MDN web docs
         url: https://developer.mozilla.org/zh-CN/
-        icon:
+        icon: fab fa-js-square
         description: 前端三件套的详细查询文档
       - name: Boostrap5文档
         url: https://www.bootstrap.cn/doc/read/94
-        icon:
+        icon: fab fa-bootstrap
         description: Bootstrap 是全球最受欢迎的前端框架，用于构建响应式、移动设备优先的网站。
       - name: 基于Hexo搭建博客
         url: https://fe32.top/articles/hexo1600/
-        icon:
+        icon: fas fa-blog
         description: 基于 Hexo 从零开始搭建个人博客系列文章
       - name: Transformer技术原理
         url: https://www.yuque.com/zhangqiang-studyisalifestyle/it-technology/transformer
-        icon:
+        icon: fas fa-brain
         description: Transformer是一种新型的深度神经网络模型，也是当下几乎所有主流大模型的基础架构
       - name: 容器核心技术与实现简介
         url: https://www.kingkk.com/2021/04/docker%E5%AE%B9%E5%99%A8%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AE%80%E4%BB%8B/
-        icon:
+        icon: fas fa-box
         description: Namespace,Cgroup,UnionFS
       - name: 从零实现分布式kv存储
         url: https://av6huf2e1k.feishu.cn/docx/JCssdlgF4oRADcxxLqncPpRCn5b
-        icon:
+        icon: fas fa-project-diagram
         description: MIT6.824
       - name: LINUX-TOTURIAL
         url: https://dunwu.github.io/linux-tutorial/
-        icon:
+        icon: fab fa-linux
         description: linux-tutorial是一个Linux教程。
   - name: 游戏
     icon: fas fa-gamepad
     sites: 
       - name: 小叽资源
         url: https://steamzg.com/
-        icon:
+        icon: fas fa-download
         description: 学习版
       - name: N站
         url: https://www.nexusmods.com/
-        icon:
+        icon: fas fa-puzzle-piece
         description: 给游戏打mod
       - name: hsguru
         url: https://www.hsguru.com/
-        icon:
+        icon: fas fa-trophy
         description: 炉石看卡组胜率抄卡组
       - name: 炉石脚本控制台
         url: https://auth.huaweicloud.com/authui/login.html?service=https%3A%2F%2Fconsole.huaweicloud.com%2Fsmb%2F%3Fregion%3Dcn-east-3%26cloud_route_state%3D%2Fresource%2Fplan%2F673da224708be6007b8c598f%2Foverview#/login
-        icon: 
+        icon: fas fa-server
         description: 华为云服务器        
       - name: PVZ wiki
         url: https://wiki.pvz1.com/doku.php?id=home
-        icon:
+        icon: fas fa-seedling
         description: 植物大战僵尸百科全书
       - name: PVZ网页布阵器
         url: http://lonelystar.org/ArrayDesign/
-        icon:
+        icon: fas fa-chess-board
         description: 自动复制阵容
       - name: P5R wiki
         url: https://gmwiki.com/wiki/p5r/index
-        icon:
+        icon: fas fa-mask
         description: 女神异闻录5皇家版百科全书
       - name: Fealess CE
         url: https://fearlessrevolution.com/
-        icon:
+        icon: fas fa-crosshairs
         description: CT表下载网站
   - name: 影音
-    icon: 
+    icon: fas fa-film
     sites:
       - name: MoonTV
         url: https://tv.adguy.top
-        icon:
+        icon: fas fa-moon
         description: 在线看电影&电视剧&综艺
       - name: 硬核指南
         url: https://yinghezhinan.com/
-        icon:
+        icon: fas fa-compass
         description: 聚合搜索站 
       
       
