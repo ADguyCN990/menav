@@ -129,7 +129,22 @@ categories:
         url: https://yinghezhinan.com/
         icon: fas fa-compass
         description: 聚合搜索站 
-      
+  - name: 设计  
+    icon: fas fa-palette
+    sites: 
+      - name: wallhaven
+        url: https://wallhaven.cc/
+        icon: fas fa-image
+        description: 高质量壁纸
+      - name: Unsplash
+        url: https://unsplash.com/
+        icon: fas fa-camera-retro
+        description: 高质量图片 
+      - name: fontawesome
+        url: https://fontawesome.com/search
+        icon: fab fa-font-awesome
+        description: icon图标库
+            
       
 
 
