@@ -8,7 +8,7 @@ categories:
     sites:
     - name: Vercel
       url: https://vercel.com/
-      icon: fab fa-vercel
+      icon: fas fa-server
       description: 前端部署平台
     - name: Cloudflare
       url: https://www.cloudflare.com/zh-cn/
@@ -16,7 +16,7 @@ categories:
       description: 赛博活佛
     - name: 阿里云
       url: https://cn.aliyun.com/
-      icon: fab fa-alibabacloud
+      icon: fas fa-cloud
       description: 有个图床还在用
   - name: 开发
     icon: fas fa-code
@@ -50,11 +50,11 @@ categories:
     sites:
       - name: canva
         url: https://www.canva.cn/
-        icon: fab fa-canva
+        icon: fas fa-paint-brush
         description: 在线平面设计
       - name: canva国际版
         url: https://www.canva.com/
-        icon: fab fa-canva
+        icon: fas fa-paint-brush
         description: 白嫖教育优惠但中文资源少
       - name: excalidraw
         url: https://excalidraw.com/
