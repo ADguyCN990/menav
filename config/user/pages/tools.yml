@@ -4,33 +4,106 @@ subtitle: 工欲善其事，必先利其器
 template: forum
 categories:
   - name: 云服务平台
-    icon: 
+    icon: mdi:cloud-outline
     sites:
     - name: Vercel
       url: https://vercel.com/
-      icon: 
+      icon: simple-icons:vercel
       description: 前端部署平台
     - name: Cloudflare
       url: https://www.cloudflare.com/zh-cn/
-      icon:
+      icon: simple-icons:cloudflare
       description: 赛博活佛
     - name: 阿里云
       url: https://cn.aliyun.com/
-      icon:
+      icon: simple-icons:alibabacloud
       description: 有个图床还在用
+  - name: 开发
+    icon: mdi:code-braces
+    sites:
+      - name: csacademy
+        url: https://csacademy.com/app/graph_editor/
+        icon: mdi:graph-outline
+        description: 用于算法题目中生成图论题目的预览
+      - name: 坐标轴绘图
+        url: https://www.geogebra.org/classic
+        icon: mdi:axis-arrow
+        description: 方便快捷地生成平面几何模型
+      - name: 在线汇编
+        url: https://godbolt.org/
+        icon: mdi:memory
+        description: 优化代码性能，分析软件漏洞
+      - name: 目录结构树生成器
+        url: https://directory-structure.wuc0714.top/
+        icon: mdi:file-tree
+        description: 用于文档的目录分析
+      - name: Linux脚本工具箱
+        url: https://kejilion.sh/index-zh-CN.html
+        icon: simple-icons:linux
+        description: 只需一行命令，即可开启您的Linux管理之旅
+      - name: json工具库
+        url: https://www.json.cn/json/
+        icon: mdi:code-json
+        description: 和json相关的找它就对了
   - name: 设计平台
-    icon: 
+    icon: mdi:palette-outline
     sites:
       - name: canva
         url: https://www.canva.cn/
-        icon:
+        icon: simple-icons:canva
         description: 在线平面设计
       - name: canva国际版
         url: https://www.canva.com/
-        icon:
+        icon: simple-icons:canva
         description: 白嫖教育优惠但中文资源少
       - name: excalidraw
         url: https://excalidraw.com/
-        icon:
+        icon: simple-icons:excalidraw
         description: 手绘风格图表制作
+      - name: AI抠图
+        url: https://segment-anything.com/demo
+        icon: mdi:content-cut
+        description: 图像处理某篇论文的演示，拿来做抠图挺好用
+      - name: 在线拼图工具
+        url: https://img.ops-coffee.cn/zh/app/
+        icon: mdi:image-multiple-outline
+        description:  
+  - name: 格式转化
+    icon: mdi:file-replace-outline
+    sites:
+      - name: IT Tools
+        url: https://tools.adguy.top/
+        icon: mdi:tools
+        description: 有一些基本的转换工具
+      - name: convert tools
+        url: https://converttool.org/zh-cn/
+        icon: mdi:swap-horizontal-bold
+        description: 东西挺全，但据说效果一般
+      - name: json工具库
+        url: https://www.json.cn/json/
+        icon: mdi:code-json
+        description: 和json相关的找它就对了
+      - name: 图片转Excel
+        url: https://docsmall.com/image-to-excel
+        icon: mdi:file-excel-outline
+        description: 暂时免费
+  - name: 薅羊毛
+    icon: mdi:gift-outline
+    sites:
+      - name: 商品历史价格查询
+        url: https://www.hisprice.com/
+        icon: mdi:chart-line
+        description: 看清虚假折扣
+      - name: Steam挂刀行情
+        url: https://www.iflow.work/
+        icon: simple-icons:steam
+        description: Steam倒余额
+      - name: LinuxDo薅羊毛专区
+        url: https://linux.do/c/welfare/36
+        icon: mdi:sheep
+        description: 论坛薅羊毛版块    
+      - name: 学生证生成
+        url: https://student-id.pages.dev/
+        icon: mdi:school-outline
+        description: 白嫖教育优惠
       

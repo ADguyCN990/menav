@@ -74,6 +74,10 @@ categories:
         icon: fas fa-microphone
         description: AI克隆声音,每月20分钟额度
         url: https://anyvoice.net/zh
+      - name: 文案去包装
+        icon: fas fa-user-secret
+        description: 看着别人发黑话装X，心里不爽？直接开怼又怕被嘲笑知识储备不足？
+        url: https://tbz.906051999.xyz/
   - name: 工具
     icon: fas fa-tools
     sites:
