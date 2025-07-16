@@ -67,7 +67,7 @@ categories:
       - name: 在线拼图工具
         url: https://img.ops-coffee.cn/zh/app/
         icon: fas fa-puzzle-piece
-        description:  
+        description: 朋友圈九宫格拼图工具 
   - name: 格式转化
     icon: fas fa-exchange-alt
     sites:
