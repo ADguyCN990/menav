@@ -14,6 +14,10 @@ categories:
       url: https://www.cloudflare.com/zh-cn/
       icon: fab fa-cloudflare
       description: 赛博活佛
+    - name: upstash
+      url: https://upstash.com/
+      icon: fas fa-server
+      description: 云端Redis
     - name: 阿里云
       url: https://cn.aliyun.com/
       icon: fas fa-cloud
