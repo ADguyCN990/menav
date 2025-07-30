@@ -56,6 +56,10 @@ categories:
         url: https://tv.adguy.top
         icon: fas fa-tv
         description: 影视资源站
+      - name: 自建邮箱服务
+        url: https://mail.jhclip.top
+        icon: fas fa-mail
+        description: 域名邮箱，批发邮箱，支持收发邮件
       - name: IT工具箱
         url: https://tools.adguy.top
         icon: fas fa-toolbox

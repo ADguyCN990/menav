@@ -22,6 +22,10 @@ categories:
       url: https://cn.aliyun.com/
       icon: fas fa-cloud
       description: 有个图床还在用
+    - name: resend
+      url: https://resend.com/emails
+      icon: fas fa-mail
+      description: 提供发邮件的API，已与cf关联
   - name: 开发
     icon: fas fa-code
     sites:
